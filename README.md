@@ -10,6 +10,12 @@ If you want to create your own event, create an account with your @yale.edu emai
 
 Then, search for events, or browse events by filtering by category, date, location, etc. Sign up for events by clicking on the link.
 
+Here's a demo video:
+
+
+https://github.com/MadhavL/Events-For-Yalies/assets/19777241/759348d1-5ce3-4679-8f9b-6b1a4017b9c3
+
+
 ## The tech stack
 - Native Android App (pure Java)
 - Firebase Authentication for user profile management
