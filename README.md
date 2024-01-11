@@ -1,8 +1,14 @@
 # Events-For-Yalies
 The best way for Yale students to see what's going on nearby - cultural events, parties, extracurriculars, varsity games - all from your phone.
 
+Verified users can create their own events to share with schoolmates and get them to sign up for their events!
+
 ## Using the app
-Create an account with your @yale.edu email address, search for events, or browse events by filtering by category, date, location, etc. Sign up for events by clicking on the link.
+Guest users can view all events.
+
+If you want to create your own event, create an account with your @yale.edu email address and verify it.
+
+Then, search for events, or browse events by filtering by category, date, location, etc. Sign up for events by clicking on the link.
 
 ## The tech stack
 - Native Android App (pure Java)
